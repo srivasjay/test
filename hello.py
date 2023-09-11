@@ -1,1 +1,1 @@
-print("Hello, gocd!")
+print("Hello, gocd-with parent!")
